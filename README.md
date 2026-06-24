@@ -1,4 +1,4 @@
-# Bhargav Rampula | Aspiring Backend Developer 🚀
+# Bhargav Ram Pula | Aspiring Backend Developer 🚀
 
 📍 India | 🎯 6-Month Sprint to Production-Ready Engineer | Day 4/180
 
