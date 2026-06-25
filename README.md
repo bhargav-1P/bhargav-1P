@@ -45,11 +45,11 @@ Everything here is built in public for accountability and recruiter visibility.
 | Project | Tech | Live Demo |
 |---------|------|-----------|
 | **Hedamo Product Showcase** | Next.js, Tailwind CSS, TypeScript (AI-assisted) | [View](https://hedamoproject.netlify.app) |
-| **Counter App** | HTML, CSS, Vanilla JS (hand-coded) | [View](https://your-counter-app.netlify.app) |
-| **Survey Form** | HTML5, CSS3, Responsive (hand-coded) | [View](https://your-survey-form.netlify.app) |
-| **Product Card** | CSS Box Model, Flexbox (hand-coded) | [View](https://your-product-card.netlify.app) |
-| **Tribute Page** | HTML5, CSS3 (hand-coded) | [View](https://your-tribute-page.netlify.app) |
-| **Portfolio Website** | HTML5, CSS3 (hand-coded) | [View](https://your-portfolio.netlify.app) |
+| **Portfolio Website** | JavaScript, CSS3 (hand-coded) | [View](https://statuesque-bombolone-ce10d1.netlify.app) |
+| **Counter App** | HTML, CSS, Vanilla JS (hand-coded) | [View](https://charming-yeot-e42bc8.netlify.app/) |
+| **Survey Form** | HTML5, CSS3, Responsive (hand-coded) | [View](https://jocular-sfogliatella-2b0813.netlify.app/) |
+| **Product Card** | CSS Box Model, Flexbox (hand-coded) | [View](https://deft-sprite-69caea.netlify.app/) |
+| **Portfolio Website** | HTML5, CSS3 (hand-coded) | [View](https://radiant-madeleine-3a3a64.netlify.app/) |
 | **DSA Progress Tracker** | JavaScript, LeetCode | [Repo](https://github.com/bhargav-1P/dsa-progress) |
 
 ---
