@@ -1,6 +1,6 @@
 # Bhargav Ram Pula | Aspiring Backend Developer 🚀
 
-📍 India | 🎯 6-Month Sprint to Production-Ready Engineer | Day 4/180
+📍 India | 🎯 6-Month Sprint to Production-Ready Engineer | Day 5/180
 
 ---
 
@@ -28,15 +28,15 @@ Everything here is built in public for accountability and recruiter visibility.
 
 ---
 
-## 📊 Current Progress (Day 4/180)
+## 📊 Current Progress (Day 5/180)
 
 | Area | Status |
 |------|--------|
-| **DSA Problems Solved** | 7+ (Arrays, Strings, Two Pointers, Sets) |
-| **Projects Deployed** | 6 live on Netlify |
-| **DSA Patterns Identified** | Brute Force, Hash Map, Two Pointers, Set+Filter, Sum Formula |
+| **DSA Problems Solved** | 9 (Arrays, Strings, Two Pointers, Hash Map, Set) |
+| **Projects Deployed** | 7 live on Netlify |
+| **DSA Patterns Identified** | 6 (Brute Force, Hash Map/Set, Two Pointers, Sum Formula, Frequency Count, Set+Filter) |
 | **GitHub Commits** | Daily since Day 1 |
-| **LinkedIn Posts** | Daily progress updates |
+| **Learning Method** | Story-first → Draw → Section code → Reconstruct |
 
 ---
 
@@ -49,6 +49,7 @@ Everything here is built in public for accountability and recruiter visibility.
 | **Survey Form** | HTML5, CSS3, Responsive (hand-coded) | [View](https://your-survey-form.netlify.app) |
 | **Product Card** | CSS Box Model, Flexbox (hand-coded) | [View](https://your-product-card.netlify.app) |
 | **Tribute Page** | HTML5, CSS3 (hand-coded) | [View](https://your-tribute-page.netlify.app) |
+| **Portfolio Website** | HTML5, CSS3 (hand-coded) | [View](https://your-portfolio.netlify.app) |
 | **DSA Progress Tracker** | JavaScript, LeetCode | [Repo](https://github.com/bhargav-1P/dsa-progress) |
 
 ---
@@ -59,8 +60,19 @@ Everything here is built in public for accountability and recruiter visibility.
 |---------|----------------|---------|
 | Brute Force (Nested Loops) | 2 | Two Sum, Best Time to Buy/Sell |
 | Hash Map / Set | 2 | Contains Duplicate, Intersection of Two Arrays |
-| Two Pointers | 2 | Valid Palindrome, Reverse String |
+| Two Pointers | 3 | Valid Palindrome, Reverse String, Merge Sorted Array |
 | Arithmetic Sum Formula | 1 | Missing Number |
+| Hash Map (Frequency Count) | 1 | First Unique Character in a String |
+
+---
+
+## 📈 Method Evolution
+
+| Day | Method | Result |
+|-----|--------|--------|
+| Day 1-3 | Watch videos → Copy code | Recognition only |
+| Day 4 | Editorial tab + Own files | Better, still passive |
+| Day 5 | Story → Draw → Section code → Reconstruct | **Working method found** |
 
 ---
 
@@ -79,8 +91,9 @@ Everything here is built in public for accountability and recruiter visibility.
 |-----|-----------|------------------|
 | **Day 1** | Two Sum (#1), Best Time to Buy/Sell (#121) | Tribute Page |
 | **Day 2** | Contains Duplicate (#217), Missing Number (#268) | Survey Form |
-| **Day 3** | — CSS Box Model focus — | Product Card, DNS fundamentals |
-| **Day 4** | Intersection of Two Arrays (#349), Valid Palindrome (#125) | Counter App + Dark Mode |
+| **Day 3** | Stock optimized (#121), Contains Duplicate recall (#217) | Product Card, DNS fundamentals |
+| **Day 4** | Intersection of Two Arrays (#349), Valid Palindrome (#125), Reverse String (#344) | Counter App + Dark Mode |
+| **Day 5** | Valid Palindrome recall (#125), Merge Sorted Array (#88), First Unique Character (#387) | Portfolio Website |
 
 ---
 
