@@ -1,6 +1,6 @@
 # Bhargav Ram Pula | Aspiring Backend Developer 🚀
 
-📍 India | 🎯 6-Month Sprint to Production-Ready Engineer | Day 5/180
+📍 India | 🎯 6-Month Sprint to Production-Ready Engineer | Day 6/180
 
 ---
 
@@ -28,11 +28,11 @@ Everything here is built in public for accountability and recruiter visibility.
 
 ---
 
-## 📊 Current Progress (Day 5/180)
+## 📊 Current Progress (Day 6/180)
 
 | Area | Status |
 |------|--------|
-| **DSA Problems Solved** | 9 (Arrays, Strings, Two Pointers, Hash Map, Set) |
+| **DSA Problems Solved** | 10 (Arrays, Strings, Two Pointers, Hash Map, Set) |
 | **Projects Deployed** | 7 live on Netlify |
 | **DSA Patterns Identified** | 6 (Brute Force, Hash Map/Set, Two Pointers, Sum Formula, Frequency Count, Set+Filter) |
 | **GitHub Commits** | Daily since Day 1 |
@@ -60,7 +60,7 @@ Everything here is built in public for accountability and recruiter visibility.
 |---------|----------------|---------|
 | Brute Force (Nested Loops) | 2 | Two Sum, Best Time to Buy/Sell |
 | Hash Map / Set | 2 | Contains Duplicate, Intersection of Two Arrays |
-| Two Pointers | 3 | Valid Palindrome, Reverse String, Merge Sorted Array |
+| Two Pointers | 4 | Valid Palindrome, Reverse String, Merge Sorted Array, Move Zeroes |
 | Arithmetic Sum Formula | 1 | Missing Number |
 | Hash Map (Frequency Count) | 1 | First Unique Character in a String |
 
@@ -73,7 +73,7 @@ Everything here is built in public for accountability and recruiter visibility.
 | Day 1-3 | Watch videos → Copy code | Recognition only |
 | Day 4 | Editorial tab + Own files | Better, still passive |
 | Day 5 | Story → Draw → Section code → Reconstruct | **Working method found** |
-
+| Day 6 | 3-Pass (Draw → Trace → English → Code) + 10x10 drills | Foundation strengthening |
 ---
 
 ## 🔗 Connect With Me
@@ -94,6 +94,7 @@ Everything here is built in public for accountability and recruiter visibility.
 | **Day 3** | Stock optimized (#121), Contains Duplicate recall (#217) | Product Card, DNS fundamentals |
 | **Day 4** | Intersection of Two Arrays (#349), Valid Palindrome (#125), Reverse String (#344) | Counter App + Dark Mode |
 | **Day 5** | Valid Palindrome recall (#125), Merge Sorted Array (#88), First Unique Character (#387) | Portfolio Website |
+| **Day 6** | Move Zeroes pattern learned, Contains Duplicate recall | JavaScript Boot Camp (Arrays, Objects drills) |
 
 ---
 
