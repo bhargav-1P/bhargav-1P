@@ -1,6 +1,6 @@
 # Bhargav Ram Pula | Aspiring Backend Developer 🚀
 
-📍 India | 🎯 6-Month Sprint to Production-Ready Engineer | Day 6/180
+📍 India | 🎯 6-Month Sprint to Production-Ready Engineer | Day 7/180
 
 ---
 
@@ -28,7 +28,7 @@ Everything here is built in public for accountability and recruiter visibility.
 
 ---
 
-## 📊 Current Progress (Day 6/180)
+## 📊 Current Progress (Day 7/180)
 
 | Area | Status |
 |------|--------|
@@ -36,7 +36,7 @@ Everything here is built in public for accountability and recruiter visibility.
 | **Projects Deployed** | 7 live on Netlify |
 | **DSA Patterns Identified** | 6 (Brute Force, Hash Map/Set, Two Pointers, Sum Formula, Frequency Count, Set+Filter) |
 | **GitHub Commits** | Daily since Day 1 |
-| **Learning Method** | Story-first → Draw → Section code → Reconstruct |
+| **Learning Method** | Independent struggle → Pattern hint → Code from memory |
 
 ---
 
@@ -49,8 +49,8 @@ Everything here is built in public for accountability and recruiter visibility.
 | **Counter App** | HTML, CSS, Vanilla JS (hand-coded) | [View](https://charming-yeot-e42bc8.netlify.app/) |
 | **Survey Form** | HTML5, CSS3, Responsive (hand-coded) | [View](https://jocular-sfogliatella-2b0813.netlify.app/) |
 | **Product Card** | CSS Box Model, Flexbox (hand-coded) | [View](https://deft-sprite-69caea.netlify.app/) |
-| **Portfolio Website** | HTML5, CSS3 (hand-coded) | [View](https://radiant-madeleine-3a3a64.netlify.app/) |
-| **DSA Progress Tracker** | JavaScript, LeetCode | [Repo](https://github.com/bhargav-1P/dsa-progress) |
+| **Tribute Page** | HTML5, CSS3 (hand-coded) | [View](https://radiant-madeleine-3a3a64.netlify.app/) |
+| **DSA Progress Tracker** | JavaScript, LeetCode | [Repo](https://github.com/bhargav-1P/DSA--PREPARATION) |
 
 ---
 
@@ -72,8 +72,10 @@ Everything here is built in public for accountability and recruiter visibility.
 |-----|--------|--------|
 | Day 1-3 | Watch videos → Copy code | Recognition only |
 | Day 4 | Editorial tab + Own files | Better, still passive |
-| Day 5 | Story → Draw → Section code → Reconstruct | **Working method found** |
-| Day 6 | 3-Pass (Draw → Trace → English → Code) + 10x10 drills | Foundation strengthening |
+| Day 5 | Story → Draw → Section code → Reconstruct | Working method found |
+| Day 6 | 3-Pass + 10x10 JS drills | Foundation strengthening |
+| Day 7 | Independent struggle → Pattern hint → Code from memory | No reference needed |
+
 ---
 
 ## 🔗 Connect With Me
@@ -94,7 +96,8 @@ Everything here is built in public for accountability and recruiter visibility.
 | **Day 3** | Stock optimized (#121), Contains Duplicate recall (#217) | Product Card, DNS fundamentals |
 | **Day 4** | Intersection of Two Arrays (#349), Valid Palindrome (#125), Reverse String (#344) | Counter App + Dark Mode |
 | **Day 5** | Valid Palindrome recall (#125), Merge Sorted Array (#88), First Unique Character (#387) | Portfolio Website |
-| **Day 6** | Move Zeroes pattern learned, Contains Duplicate recall | JavaScript Boot Camp (Arrays, Objects drills) |
+| **Day 6** | Move Zeroes pattern learned, Contains Duplicate recall, Arrays & Objects drills | JavaScript Boot Camp |
+| **Day 7** | Move Zeroes (#283) brute + optimal, Valid Palindrome recall | — |
 
 ---
 
