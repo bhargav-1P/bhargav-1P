@@ -1,13 +1,13 @@
 # Bhargav Ram Pula | Aspiring Backend Developer 🚀
 
-📍 India | 🎯 6-Month Sprint to Production-Ready Engineer | Day 7/180
+📍 India | 🎯 6-Month Sprint to Production-Ready Engineer | Day 8/180
 
 ---
 
 ## 👋 About Me
 
 EEE graduate (2023) on a 180-day structured journey to become a backend developer.  
-Currently grinding **DSA in JavaScript** and deploying **real projects** daily.  
+Currently grinding **DSA in JavaScript** and deploying **real projects** .  
 
 **Before this sprint:** Explored modern frameworks (Next.js, Tailwind CSS) through AI-assisted projects — gaining exposure to component architecture and deployment pipelines.  
 
@@ -28,13 +28,13 @@ Everything here is built in public for accountability and recruiter visibility.
 
 ---
 
-## 📊 Current Progress (Day 7/180)
+## 📊 Current Progress (Day 8/180)
 
 | Area | Status |
 |------|--------|
-| **DSA Problems Solved** | 10 (Arrays, Strings, Two Pointers, Hash Map, Set) |
+| **DSA Problems Solved** | 11 (Arrays, Strings, Two Pointers, Hash Map, Set) |
 | **Projects Deployed** | 7 live on Netlify |
-| **DSA Patterns Identified** | 6 (Brute Force, Hash Map/Set, Two Pointers, Sum Formula, Frequency Count, Set+Filter) |
+| **DSA Patterns Identified** | 6 (Brute Force, Hash Map/Set, Two Pointers, Frequency Count, Set+Filter) |
 | **GitHub Commits** | Daily since Day 1 |
 | **Learning Method** | Independent struggle → Pattern hint → Code from memory |
 
@@ -60,8 +60,7 @@ Everything here is built in public for accountability and recruiter visibility.
 |---------|----------------|---------|
 | Brute Force (Nested Loops) | 2 | Two Sum, Best Time to Buy/Sell |
 | Hash Map / Set | 2 | Contains Duplicate, Intersection of Two Arrays |
-| Two Pointers | 4 | Valid Palindrome, Reverse String, Merge Sorted Array, Move Zeroes |
-| Arithmetic Sum Formula | 1 | Missing Number |
+| Two Pointers | 5 | Valid Palindrome, Reverse String, Merge Sorted Array, Move Zeroes |
 | Hash Map (Frequency Count) | 1 | First Unique Character in a String |
 
 ---
@@ -75,6 +74,7 @@ Everything here is built in public for accountability and recruiter visibility.
 | Day 5 | Story → Draw → Section code → Reconstruct | Working method found |
 | Day 6 | 3-Pass + 10x10 JS drills | Foundation strengthening |
 | Day 7 | Independent struggle → Pattern hint → Code from memory | No reference needed |
+| Day 8 | Split-screen reference + Process over speed | Syntax & logic separated |
 
 ---
 
@@ -98,6 +98,7 @@ Everything here is built in public for accountability and recruiter visibility.
 | **Day 5** | Valid Palindrome recall (#125), Merge Sorted Array (#88), First Unique Character (#387) | Portfolio Website |
 | **Day 6** | Move Zeroes pattern learned, Contains Duplicate recall, Arrays & Objects drills | JavaScript Boot Camp |
 | **Day 7** | Move Zeroes (#283) brute + optimal, Valid Palindrome recall | — |
+| **Day 8** | Remove Element (#27) brute + optimal, Contains Duplicate recall, Move Zeroes recall | — |
 
 ---
 
