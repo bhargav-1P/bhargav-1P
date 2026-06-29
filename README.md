@@ -41,7 +41,7 @@ Node.js, Express, MongoDB. Month 2.
 | Portfolio | HTML, CSS | [Live](https://statuesque-bombolone-ce10d1.netlify.app) |
 | Survey Form | HTML, CSS | [Live](https://jocular-sfogliatella-2b0813.netlify.app) |
 | Product Card | HTML, CSS | [Live](https://deft-sprite-69caea.netlify.app) |
-| Tribute Page | HTML, CSS | [Live](https://radiant-madeleine-3a3a64.netlify.app) |
+| Portfolio-v2 | HTML, CSS | [Live](https://radiant-madeleine-3a3a64.netlify.app) |
 
 ---
 
@@ -51,7 +51,6 @@ Node.js, Express, MongoDB. Month 2.
 - Hash Set (duplicate check, intersection)
 - Two Pointers (palindrome, reverse, merge, move zeroes, remove element, remove duplicates)
 - Frequency Count (first unique character)
-- Sum Formula (missing number)
 
 ---
 
@@ -73,7 +72,7 @@ It's slower. It actually works.
 | 2 | Contains Duplicate, Missing Number | Survey Form |
 | 3 | Stock optimized, Duplicate recall | Product Card |
 | 4 | Intersection, Valid Palindrome, Reverse String | Counter App |
-| 5 | Palindrome recall, First Unique, Two Sum recall | Portfolio |
+| 5 | Palindrome recall, Two Sum recall | Portfolio |
 | 6 | Move Zeroes pattern, Duplicate recall, JS drills | — |
 | 7 | Move Zeroes brute + optimal, Palindrome recall | — |
 | 8 | Remove Element brute + optimal, recalls | — |
