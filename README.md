@@ -1,112 +1,102 @@
-# Bhargav Ram Pula | Aspiring Backend Developer 🚀
+# Bhargav Ram Pula | Aspiring Backend Developer
 
-📍 India | 🎯 6-Month Sprint to Production-Ready Engineer | Day 8/180
-
----
-
-## 👋 About Me
-
-EEE graduate (2023) on a 180-day structured journey to become a backend developer.  
-Currently grinding **DSA in JavaScript** and deploying **real projects** .  
-
-**Before this sprint:** Explored modern frameworks (Next.js, Tailwind CSS) through AI-assisted projects — gaining exposure to component architecture and deployment pipelines.  
-
-**Now:** Building fundamentals from scratch — vanilla JavaScript, hand-coded DOM manipulation, and documented DSA patterns.  
-
-Everything here is built in public for accountability and recruiter visibility.
+📍 India | 🎯 180-Day Sprint | Day 9/180
 
 ---
 
-## 🛠 Tech Stack
+## About Me
 
-| Category | Technologies |
-|----------|-------------|
-| **Hand-Coded (Current Focus)** | JavaScript, HTML5, CSS3, Git, GitHub |
-| **Frameworks (AI-Assisted Exposure)** | Next.js, Tailwind CSS, TypeScript |
-| **Coming in Month 2-3** | Node.js, Express, MongoDB, React |
-| **Tools** | Netlify, npm, VS Code, Chrome DevTools |
+EEE graduate (2023). Currently spending 6 months learning backend development from scratch.
 
----
+Before this, I played around with Next.js and Tailwind CSS using AI tools. Built a product showcase. Learned what a component is. But I couldn't write a for loop from memory.
 
-## 📊 Current Progress (Day 8/180)
+So I started over. Day 1. Blank slate. JavaScript fundamentals. DSA patterns. Hand-coded projects. Daily commits.
 
-| Area | Status |
-|------|--------|
-| **DSA Problems Solved** | 11 (Arrays, Strings, Two Pointers, Hash Map, Set) |
-| **Projects Deployed** | 7 live on Netlify |
-| **DSA Patterns Identified** | 6 (Brute Force, Hash Map/Set, Two Pointers, Frequency Count, Set+Filter) |
-| **GitHub Commits** | Daily since Day 1 |
-| **Learning Method** | Independent struggle → Pattern hint → Code from memory |
+This profile tracks everything.
 
 ---
 
-## 📌 Featured Projects
+## What I'm Doing Right Now
 
-| Project | Tech | Live Demo |
-|---------|------|-----------|
-| **Hedamo Product Showcase** | Next.js, Tailwind CSS, TypeScript (AI-assisted) | [View](https://hedamoproject.netlify.app) |
-| **Portfolio Website** | JavaScript, CSS3 (hand-coded) | [View](https://statuesque-bombolone-ce10d1.netlify.app) |
-| **Counter App** | HTML, CSS, Vanilla JS (hand-coded) | [View](https://charming-yeot-e42bc8.netlify.app/) |
-| **Survey Form** | HTML5, CSS3, Responsive (hand-coded) | [View](https://jocular-sfogliatella-2b0813.netlify.app/) |
-| **Product Card** | CSS Box Model, Flexbox (hand-coded) | [View](https://deft-sprite-69caea.netlify.app/) |
-| **Tribute Page** | HTML5, CSS3 (hand-coded) | [View](https://radiant-madeleine-3a3a64.netlify.app/) |
-| **DSA Progress Tracker** | JavaScript, LeetCode | [Repo](https://github.com/bhargav-1P/DSA--PREPARATION) |
+- Solving DSA problems in JavaScript (12 solved, all Easy)
+- Building vanilla JS projects without tutorials
+- Documenting patterns as I learn them
+- Deploying everything live
 
 ---
 
-## 📈 DSA Pattern Library
+## What I'll Learn Next
 
-| Pattern | Problems Solved | Example |
-|---------|----------------|---------|
-| Brute Force (Nested Loops) | 2 | Two Sum, Best Time to Buy/Sell |
-| Hash Map / Set | 2 | Contains Duplicate, Intersection of Two Arrays |
-| Two Pointers | 5 | Valid Palindrome, Reverse String, Merge Sorted Array, Move Zeroes |
-| Hash Map (Frequency Count) | 1 | First Unique Character in a String |
+Node.js, Express, MongoDB. Month 2.
 
 ---
 
-## 📈 Method Evolution
+## Projects
 
-| Day | Method | Result |
-|-----|--------|--------|
-| Day 1-3 | Watch videos → Copy code | Recognition only |
-| Day 4 | Editorial tab + Own files | Better, still passive |
-| Day 5 | Story → Draw → Section code → Reconstruct | Working method found |
-| Day 6 | 3-Pass + 10x10 JS drills | Foundation strengthening |
-| Day 7 | Independent struggle → Pattern hint → Code from memory | No reference needed |
-| Day 8 | Split-screen reference + Process over speed | Syntax & logic separated |
-
----
-
-## 🔗 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green)](https://statuesque-bombolone-ce10d1.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bhargavrampula/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/bynYDiCO3D/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/bhargav-1P)
+| Project | Stack | Link |
+|---------|-------|------|
+| Hedamo Showcase | Next.js, Tailwind (AI-assisted) | [Live](https://hedamoproject.netlify.app) |
+| To-Do List | Vanilla JS, localStorage | [Live](https://your-todo-url.netlify.app) |
+| Counter App | Vanilla JS, DOM | [Live](https://charming-yeot-e42bc8.netlify.app) |
+| Portfolio | HTML, CSS | [Live](https://statuesque-bombolone-ce10d1.netlify.app) |
+| Survey Form | HTML, CSS | [Live](https://jocular-sfogliatella-2b0813.netlify.app) |
+| Product Card | HTML, CSS | [Live](https://deft-sprite-69caea.netlify.app) |
+| Tribute Page | HTML, CSS | [Live](https://radiant-madeleine-3a3a64.netlify.app) |
 
 ---
 
-## 📝 Daily Progress Log
+## DSA Patterns I Know
 
-| Day | DSA Solved | Project Deployed |
-|-----|-----------|------------------|
-| **Day 1** | Two Sum (#1), Best Time to Buy/Sell (#121) | Tribute Page |
-| **Day 2** | Contains Duplicate (#217), Missing Number (#268) | Survey Form |
-| **Day 3** | Stock optimized (#121), Contains Duplicate recall (#217) | Product Card, DNS fundamentals |
-| **Day 4** | Intersection of Two Arrays (#349), Valid Palindrome (#125), Reverse String (#344) | Counter App + Dark Mode |
-| **Day 5** | Valid Palindrome recall (#125), Merge Sorted Array (#88), First Unique Character (#387) | Portfolio Website |
-| **Day 6** | Move Zeroes pattern learned, Contains Duplicate recall, Arrays & Objects drills | JavaScript Boot Camp |
-| **Day 7** | Move Zeroes (#283) brute + optimal, Valid Palindrome recall | — |
-| **Day 8** | Remove Element (#27) brute + optimal, Contains Duplicate recall, Move Zeroes recall | — |
+- Brute Force (nested loops)
+- Hash Set (duplicate check, intersection)
+- Two Pointers (palindrome, reverse, merge, move zeroes, remove element, remove duplicates)
+- Frequency Count (first unique character)
+- Sum Formula (missing number)
 
 ---
 
-## 🎯 What I'm Looking For
+## How I Learn
 
-Open to **SDE / Backend Developer** roles at product companies and high-growth startups.  
-Immediate joiner. Ready to relocate.
+First week: Watched videos. Copied code. Didn't stick.
+
+Now: Read the problem. Write the story in English. Trace on paper. Code from the story. Retrieve from memory the next day.
+
+It's slower. It actually works.
 
 ---
 
-*"Building in public. One commit at a time."*
+## Daily Log
+
+| Day | DSA | Project |
+|-----|-----|---------|
+| 1 | Two Sum, Stock | Tribute Page |
+| 2 | Contains Duplicate, Missing Number | Survey Form |
+| 3 | Stock optimized, Duplicate recall | Product Card |
+| 4 | Intersection, Valid Palindrome, Reverse String | Counter App |
+| 5 | Palindrome recall, First Unique, Two Sum recall | Portfolio |
+| 6 | Move Zeroes pattern, Duplicate recall, JS drills | — |
+| 7 | Move Zeroes brute + optimal, Palindrome recall | — |
+| 8 | Remove Element brute + optimal, recalls | — |
+| 9 | Remove Duplicates, Remove Element recall, Move Zeroes recall | To-Do List |
+
+---
+
+## Stats
+
+- 12 DSA problems solved
+- 8 projects deployed
+- 9-day commit streak
+- 6 patterns identified
+
+---
+
+## Links
+
+[Portfolio](https://statuesque-bombolone-ce10d1.netlify.app) |
+[LinkedIn](https://www.linkedin.com/in/bhargavrampula/) |
+[LeetCode](https://leetcode.com/u/bynYDiCO3D/) |
+[GitHub](https://github.com/bhargav-1P)
+
+---
+
+Open to SDE and backend roles. Immediate joiner.
