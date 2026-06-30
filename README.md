@@ -1,6 +1,6 @@
 # Bhargav Ram Pula | Aspiring Backend Developer
 
-📍 India | 🎯 180-Day Sprint | Day 9/180
+📍 India | 🎯 180-Day Sprint | Day 10/180
 
 ---
 
@@ -18,7 +18,7 @@ This profile tracks everything.
 
 ## What I'm Doing Right Now
 
-- Solving DSA problems in JavaScript (12 solved, all Easy)
+- Solving DSA problems in JavaScript (13 solved, all Easy)
 - Building vanilla JS projects without tutorials
 - Documenting patterns as I learn them
 - Deploying everything live
@@ -41,7 +41,7 @@ Node.js, Express, MongoDB. Month 2.
 | Portfolio | HTML, CSS | [Live](https://statuesque-bombolone-ce10d1.netlify.app) |
 | Survey Form | HTML, CSS | [Live](https://jocular-sfogliatella-2b0813.netlify.app) |
 | Product Card | HTML, CSS | [Live](https://deft-sprite-69caea.netlify.app) |
-| Portfolio-v2 | HTML, CSS | [Live](https://radiant-madeleine-3a3a64.netlify.app) |
+| Portfolio-v2 | HTML, CSS | [Live](https://portfolio-hv2.netlify.app/) |
 
 ---
 
@@ -51,7 +51,7 @@ Node.js, Express, MongoDB. Month 2.
 - Hash Set (duplicate check, intersection)
 - Two Pointers (palindrome, reverse, merge, move zeroes, remove element, remove duplicates)
 - Frequency Count (first unique character)
-
+- Binary search (first bad version)
 ---
 
 ## How I Learn
@@ -77,15 +77,15 @@ It's slower. It actually works.
 | 7 | Move Zeroes brute + optimal, Palindrome recall | — |
 | 8 | Remove Element brute + optimal, recalls | — |
 | 9 | Remove Duplicates, Remove Element recall, Move Zeroes recall | To-Do List |
-
+| 10 | First Bad Version  brute + optimal,Remove Duplicates recall, Remove Element recall| Portfolio Updated |
 ---
 
 ## Stats
 
-- 12 DSA problems solved
+- 13 DSA problems solved
 - 8 projects deployed
 - 9-day commit streak
-- 6 patterns identified
+- 7 patterns identified
 
 ---
 
