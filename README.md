@@ -1,6 +1,6 @@
 # Bhargav Ram Pula | Aspiring Backend Developer
 
-📍 India | 🎯 180-Day Sprint | Day 10/180
+📍 India | 🎯 180-Day Sprint | Day 11/180
 
 ---
 
@@ -18,7 +18,7 @@ This profile tracks everything.
 
 ## What I'm Doing Right Now
 
-- Solving DSA problems in JavaScript (13 solved, all Easy)
+- Solving DSA problems in JavaScript (14 solved, all Easy)
 - Building vanilla JS projects without tutorials
 - Documenting patterns as I learn them
 - Deploying everything live
@@ -78,13 +78,14 @@ It's slower. It actually works.
 | 8 | Remove Element brute + optimal, recalls | — |
 | 9 | Remove Duplicates, Remove Element recall, Move Zeroes recall | To-Do List |
 | 10 | First Bad Version  brute + optimal,Remove Duplicates recall, Remove Element recall| Portfolio Updated |
+| Day 11 | Two Giants story + Walkthrough translation + Pattern-first thinking | Two Pointers (Ends to Center) locked |
 ---
 
 ## Stats
 
-- 13 DSA problems solved
+- 14 DSA problems solved
 - 8 projects deployed
-- 9-day commit streak
+- 11-day commit streak
 - 7 patterns identified
 
 ---
