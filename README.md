@@ -1,6 +1,6 @@
 # Bhargav Ram Pula | Aspiring Backend Developer
 
-📍 India | 🎯 180-Day Sprint | Day 11/180
+📍 India | 🎯 180-Day Sprint | Day 12/180
 
 ---
 
@@ -51,7 +51,7 @@ Node.js, Express, MongoDB. Month 2.
 - Hash Set (duplicate check, intersection)
 - Two Pointers (palindrome, reverse, merge, move zeroes, remove element, remove duplicates)
 - Frequency Count (first unique character)
-- Binary search (first bad version)
+- Binary search (first bad version,search insert position)
 ---
 
 ## How I Learn
@@ -79,13 +79,14 @@ It's slower. It actually works.
 | 9 | Remove Duplicates, Remove Element recall, Move Zeroes recall | To-Do List |
 | 10 | First Bad Version  brute + optimal,Remove Duplicates recall, Remove Element recall| Portfolio Updated |
 | Day 11 | Two Giants story + Walkthrough translation + Pattern-first thinking | Two Pointers (Ends to Center) locked |
+| Day 12 | Fundamentals + Verbalize while typing + Syntax drilling | Bridge pattern to code |
 ---
 
 ## Stats
 
-- 14 DSA problems solved
+- 15 DSA problems solved
 - 8 projects deployed
-- 11-day commit streak
+- 12-day commit streak
 - 7 patterns identified
 
 ---
