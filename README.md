@@ -1,6 +1,6 @@
 # Bhargav Ram Pula | Aspiring Backend Developer
 
-📍 India | 🎯 180-Day Sprint | Day 12/180
+📍 India | 🎯 180-Day Sprint | Day 13/180
 
 ---
 
@@ -80,13 +80,14 @@ It's slower. It actually works.
 | 10 | First Bad Version  brute + optimal,Remove Duplicates recall, Remove Element recall| Portfolio Updated |
 | Day 11 | Two Giants story + Walkthrough translation + Pattern-first thinking | Two Pointers (Ends to Center) locked |
 | Day 12 | Fundamentals + Verbalize while typing + Syntax drilling | Bridge pattern to code |
+| Day 13 | Zero-peek retrievals + Story-to-code with hand-tracing | Retrieval muscle building |
 ---
 
 ## Stats
 
 - 15 DSA problems solved
 - 8 projects deployed
-- 12-day commit streak
+- 13-day commit streak
 - 7 patterns identified
 
 ---
