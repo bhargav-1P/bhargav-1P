@@ -1,6 +1,6 @@
 # Bhargav Ram Pula | Aspiring Backend Developer
 
-📍 India | 🎯 180-Day Sprint | Day 13/180
+📍 India | 🎯 180-Day Sprint | Day 14/180
 
 ---
 
@@ -18,7 +18,7 @@ This profile tracks everything.
 
 ## What I'm Doing Right Now
 
-- Solving DSA problems in JavaScript (14 solved, all Easy)
+- Solving DSA problems in JavaScript (16 solved, all Easy)
 - Building vanilla JS projects without tutorials
 - Documenting patterns as I learn them
 - Deploying everything live
@@ -42,6 +42,7 @@ Node.js, Express, MongoDB. Month 2.
 | Survey Form | HTML, CSS | [Live](https://jocular-sfogliatella-2b0813.netlify.app) |
 | Product Card | HTML, CSS | [Live](https://deft-sprite-69caea.netlify.app) |
 | Portfolio-v2 | HTML, CSS | [Live](https://portfolio-hv2.netlify.app/) |
+| Sliding Window Visualizer | Vanilla JS, DOM, CSS | [Live](https://visualiser-sliding-w.netlify.app/) 
 
 ---
 
@@ -52,6 +53,7 @@ Node.js, Express, MongoDB. Month 2.
 - Two Pointers (palindrome, reverse, merge, move zeroes, remove element, remove duplicates)
 - Frequency Count (first unique character)
 - Binary search (first bad version,search insert position)
+- Sliding Window (maximum average subarray)
 ---
 
 ## How I Learn
@@ -81,14 +83,15 @@ It's slower. It actually works.
 | Day 11 | Two Giants story + Walkthrough translation + Pattern-first thinking | Two Pointers (Ends to Center) locked |
 | Day 12 | Fundamentals + Verbalize while typing + Syntax drilling | Bridge pattern to code |
 | Day 13 | Zero-peek retrievals + Story-to-code with hand-tracing | Retrieval muscle building |
+| 14 | Contains Duplicate recall, Maximum Average Subarray (Sliding Window) | Sliding Window Visualizer |
 ---
 
 ## Stats
 
-- 15 DSA problems solved
-- 8 projects deployed
-- 13-day commit streak
-- 7 patterns identified
+- 16 DSA problems solved
+- 9 projects deployed
+- 14-day commit streak
+- 8 patterns identified
 
 ---
 
