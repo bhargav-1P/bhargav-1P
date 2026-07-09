@@ -1,6 +1,6 @@
 # Bhargav Ram Pula | Aspiring Backend Developer
 
-📍 India | 🎯 180-Day Sprint | Day 14/180
+📍 India | 🎯 180-Day Sprint | Day 15/180
 
 ---
 
@@ -84,13 +84,14 @@ It's slower. It actually works.
 | Day 12 | Fundamentals + Verbalize while typing + Syntax drilling | Bridge pattern to code |
 | Day 13 | Zero-peek retrievals + Story-to-code with hand-tracing | Retrieval muscle building |
 | 14 | Contains Duplicate recall, Maximum Average Subarray (Sliding Window) | Sliding Window Visualizer |
+| Day 15 | Sliding Window on strings + Spaced retrievals (zero peeks)| Sliding Window pattern solidified |
 ---
 
 ## Stats
 
-- 16 DSA problems solved
+- 17 DSA problems solved
 - 9 projects deployed
-- 14-day commit streak
+- 15-day commit streak
 - 8 patterns identified
 
 ---
