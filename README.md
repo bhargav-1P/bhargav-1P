@@ -18,7 +18,7 @@ This profile tracks everything.
 
 ## What I'm Doing Right Now
 
-- Solving DSA problems in JavaScript (19 solved, all Easy)
+- Solving DSA problems in JavaScript (18 solved, all Easy)
 - Building vanilla JS projects without tutorials
 - Documenting patterns as I learn them
 - Deploying everything live
@@ -93,7 +93,7 @@ It's slower. It actually works.
 
 ## Stats
 
-- 19 DSA problems solved
+- 18 DSA problems solved
 - 10 projects deployed
 - 17-day commit streak
 - 9 patterns identified
