@@ -36,7 +36,7 @@ Node.js, Express, MongoDB. Month 2.
 | Project | Stack | Link |
 |---------|-------|------|
 | Hedamo Showcase | Next.js, Tailwind (AI-assisted) | [Live](https://hedamoproject.netlify.app) |
-| To-Do List | Vanilla JS, localStorage | [Live](https://your-todo-url.netlify.app) |
+| To-Do List | Vanilla JS, localStorage | [Live](https://newiup-todolist.netlify.app/) |
 | Counter App | Vanilla JS, DOM | [Live](https://charming-yeot-e42bc8.netlify.app) |
 | Portfolio | HTML, CSS | [Live](https://statuesque-bombolone-ce10d1.netlify.app) |
 | Survey Form | HTML, CSS | [Live](https://jocular-sfogliatella-2b0813.netlify.app) |
