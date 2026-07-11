@@ -1,6 +1,6 @@
 # Bhargav Ram Pula | Aspiring Backend Developer
 
-📍 India | 🎯 180-Day Sprint | Day 15/180
+📍 India | 🎯 180-Day Sprint | Day 17/180
 
 ---
 
@@ -18,7 +18,7 @@ This profile tracks everything.
 
 ## What I'm Doing Right Now
 
-- Solving DSA problems in JavaScript (16 solved, all Easy)
+- Solving DSA problems in JavaScript (19 solved, all Easy)
 - Building vanilla JS projects without tutorials
 - Documenting patterns as I learn them
 - Deploying everything live
@@ -42,7 +42,8 @@ Node.js, Express, MongoDB. Month 2.
 | Survey Form | HTML, CSS | [Live](https://jocular-sfogliatella-2b0813.netlify.app) |
 | Product Card | HTML, CSS | [Live](https://deft-sprite-69caea.netlify.app) |
 | Portfolio-v2 | HTML, CSS | [Live](https://portfolio-hv2.netlify.app/) |
-| Sliding Window Visualizer | Vanilla JS, DOM, CSS | [Live](https://visualiser-sliding-w.netlify.app/) 
+| Sliding Window Visualizer | Vanilla JS, DOM, CSS | [Live](https://visualiser-sliding-w.netlify.app/) | 
+| Flavour Town MiniApp | Vanilla JS, DOM, HTML, CSS | [Live](https://sensational-flavourtown-dsaui.netlify.app/) |
 
 ---
 
@@ -54,6 +55,7 @@ Node.js, Express, MongoDB. Month 2.
 - Frequency Count (first unique character)
 - Binary search (first bad version,search insert position)
 - Sliding Window (maximum average subarray)
+- Prefix Sum(range sum query,find pivot index)
 ---
 
 ## How I Learn
@@ -80,19 +82,21 @@ It's slower. It actually works.
 | 8 | Remove Element brute + optimal, recalls | — |
 | 9 | Remove Duplicates, Remove Element recall, Move Zeroes recall | To-Do List |
 | 10 | First Bad Version  brute + optimal,Remove Duplicates recall, Remove Element recall| Portfolio Updated |
-| Day 11 | Two Giants story + Walkthrough translation + Pattern-first thinking | Two Pointers (Ends to Center) locked |
-| Day 12 | Fundamentals + Verbalize while typing + Syntax drilling | Bridge pattern to code |
-| Day 13 | Zero-peek retrievals + Story-to-code with hand-tracing | Retrieval muscle building |
+| 11 | Two Giants story + Walkthrough translation + Pattern-first thinking | Two Pointers (Ends to Center) locked |
+| 12 | Fundamentals + Verbalize while typing + Syntax drilling | Bridge pattern to code |
+| 13 | Zero-peek retrievals + Story-to-code with hand-tracing | Retrieval muscle building |
 | 14 | Contains Duplicate recall, Maximum Average Subarray (Sliding Window) | Sliding Window Visualizer |
-| Day 15 | Sliding Window on strings + Spaced retrievals (zero peeks)| Sliding Window pattern solidified |
+| 15 | Sliding Window on strings + Spaced retrievals (zero peeks)| Sliding Window pattern solidified |
+| 16 | Range Sum Query + Spaced retrievals (zero peeks)| Prefix Sum pattern solidified |
+| 17 | Find Pivot Index + Spaced retrievals (zero peeks)| Sliding Window pattern | Flavour Town Mini App
 ---
 
 ## Stats
 
-- 17 DSA problems solved
-- 9 projects deployed
-- 15-day commit streak
-- 8 patterns identified
+- 19 DSA problems solved
+- 10 projects deployed
+- 17-day commit streak
+- 9 patterns identified
 
 ---
 
