@@ -45,6 +45,7 @@ Node.js, Express, MongoDB. Month 2.
 | Sliding Window Visualizer | Vanilla JS, DOM, CSS | [Live](https://visualiser-sliding-w.netlify.app/) | 
 | Flavour Town MiniApp | Vanilla JS, DOM, HTML, CSS | [Live](https://sensational-flavourtown-dsaui.netlify.app/) |
 
+
 ---
 
 ## DSA Patterns I Know
@@ -55,7 +56,8 @@ Node.js, Express, MongoDB. Month 2.
 - Frequency Count (first unique character)
 - Binary search (first bad version,search insert position)
 - Sliding Window (maximum average subarray)
-- Prefix Sum(range sum query,find pivot index)
+- Prefix Sum(range sum query,find pivot index,runner sum)
+- Linked List (reverse linked list)
 ---
 
 ## How I Learn
@@ -89,13 +91,15 @@ It's slower. It actually works.
 | 15 | Sliding Window on strings + Spaced retrievals (zero peeks)| Sliding Window pattern solidified |
 | 16 | Range Sum Query + Spaced retrievals (zero peeks)| Prefix Sum pattern solidified |
 | 17 | Find Pivot Index + Spaced retrievals (zero peeks)| Sliding Window pattern | Flavour Town Mini App
+| 18 | Running Sum, First Bad Version recall, Pivot Index recall | 
+| 19 | Reverse Linked List, Running Sum recall |
 ---
 
 ## Stats
 
-- 18 DSA problems solved
+- 19 DSA problems solved
 - 10 projects deployed
-- 17-day commit streak
+- 19-day commit streak
 - 9 patterns identified
 
 ---
