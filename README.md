@@ -1,6 +1,6 @@
 # Bhargav Ram Pula | Aspiring Backend Developer
 
-📍 India | 🎯 180-Day Sprint | Day 19/180
+📍 India | 🎯 180-Day Sprint | Day 21/180
 
 ---
 
@@ -57,7 +57,7 @@ Node.js, Express, MongoDB. Month 2.
 - Binary search (first bad version,search insert position)
 - Sliding Window (maximum average subarray)
 - Prefix Sum(range sum query,find pivot index,runner sum)
-- Linked List (reverse linked list)
+- Linked List (reverse linked list,Remove Duplicates from Sorted List, Linked List Cycle)
 ---
 
 ## How I Learn
@@ -93,13 +93,15 @@ It's slower. It actually works.
 | 17 | Find Pivot Index + Spaced retrievals (zero peeks)| Sliding Window pattern | Flavour Town Mini App
 | 18 | Running Sum, First Bad Version recall, Pivot Index recall | 
 | 19 | Reverse Linked List, Running Sum recall |
+| 20 | Remove Duplicates from Sorted List, Reverse List recall | — |
+| 21 | Linked List Cycle, Reverse List recall, Linked List consolidation | — |
 ---
 
 ## Stats
 
-- 19 DSA problems solved
+- 20 DSA problems solved
 - 10 projects deployed
-- 19-day commit streak
+- 21-day commit streak
 - 9 patterns identified
 
 ---
