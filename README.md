@@ -1,6 +1,6 @@
 # Bhargav Ram Pula | Aspiring Backend Developer
 
-📍 India | 🎯 180-Day Sprint | Day 21/180
+📍 India | 🎯 180-Day Sprint | Day 22/180
 
 ---
 
@@ -57,7 +57,7 @@ Node.js, Express, MongoDB. Month 2.
 - Binary search (first bad version,search insert position)
 - Sliding Window (maximum average subarray)
 - Prefix Sum(range sum query,find pivot index,runner sum)
-- Linked List (reverse linked list,Remove Duplicates from Sorted List, Linked List Cycle)
+- Linked List (reverse linked list,Remove Duplicates from Sorted List, Linked List Cycle,Middle of the Linked List)
 ---
 
 ## How I Learn
@@ -95,13 +95,14 @@ It's slower. It actually works.
 | 19 | Reverse Linked List, Running Sum recall |
 | 20 | Remove Duplicates from Sorted List, Reverse List recall | — |
 | 21 | Linked List Cycle, Reverse List recall, Linked List consolidation | — |
+| 22 | Middle of the Linked List brute + optimal, Linked List Cycle recall| — |
 ---
 
 ## Stats
 
-- 20 DSA problems solved
+- 21 DSA problems solved
 - 10 projects deployed
-- 21-day commit streak
+- 22-day commit streak
 - 9 patterns identified
 
 ---
