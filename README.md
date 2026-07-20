@@ -1,6 +1,6 @@
 # Bhargav Ram Pula | Aspiring Backend Developer
 
-📍 India | 🎯 180-Day Sprint | Day 22/180
+📍 India | 🎯 180-Day Sprint | Day 25/180
 
 ---
 
@@ -96,13 +96,16 @@ It's slower. It actually works.
 | 20 | Remove Duplicates from Sorted List, Reverse List recall | — |
 | 21 | Linked List Cycle, Reverse List recall, Linked List consolidation | — |
 | 22 | Middle of the Linked List brute + optimal, Linked List Cycle recall| — |
+| 23 | Middle recall, Palindrome Linked List (3-pattern combo) | — |
+| 24 | Rest day | — |
+| 25 | Remove Nth Node From End — Optimal (fast/slow ) | — |
 ---
 
 ## Stats
 
-- 21 DSA problems solved
+- 23 DSA problems solved
 - 10 projects deployed
-- 22-day commit streak
+- 25-day commit streak
 - 9 patterns identified
 
 ---
