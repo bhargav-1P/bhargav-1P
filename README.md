@@ -1,6 +1,6 @@
 # Bhargav Ram Pula | Aspiring Backend Developer
 
-📍 India | 🎯 180-Day Sprint | Day 25/180
+📍 India | 🎯 180-Day Sprint | Day 26/180
 
 ---
 
@@ -57,7 +57,7 @@ Node.js, Express, MongoDB. Month 2.
 - Binary search (first bad version,search insert position)
 - Sliding Window (maximum average subarray)
 - Prefix Sum(range sum query,find pivot index,runner sum)
-- Linked List (reverse linked list,Remove Duplicates from Sorted List, Linked List Cycle,Middle of the Linked List)
+- Linked List (Iterative, Skip Node, Fast & Slow, Palindrome Detection, Dummy Node, Fixed Gap, Two Pointer Merge)
 ---
 
 ## How I Learn
@@ -99,13 +99,15 @@ It's slower. It actually works.
 | 23 | Middle recall, Palindrome Linked List (3-pattern combo) | — |
 | 24 | Rest day | — |
 | 25 | Remove Nth Node From End — Optimal (fast/slow ) | — |
+| 26 | #19 Fixed Gap recall, #21 Merge Two Lists (brute + optimal), #876 recall |
+
 ---
 
 ## Stats
 
-- 23 DSA problems solved
+- 24 DSA problems solved
 - 10 projects deployed
-- 25-day commit streak
+- 26-day commit streak
 - 9 patterns identified
 
 ---
