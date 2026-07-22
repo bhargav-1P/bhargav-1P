@@ -1,6 +1,6 @@
 # Bhargav Ram Pula | Aspiring Backend Developer
 
-📍 India | 🎯 180-Day Sprint | Day 26/180
+📍 India | 🎯 180-Day Sprint | Day 27/180
 
 ---
 
@@ -100,6 +100,7 @@ It's slower. It actually works.
 | 24 | Rest day | — |
 | 25 | Remove Nth Node From End — Optimal (fast/slow ) | — |
 | 26 | #19 Fixed Gap recall, #21 Merge Two Lists (brute + optimal), #876 recall |
+| 27 | #234 Palindrome recall, #21 Merge recall, #977 Two Giants recall |
 
 ---
 
@@ -107,7 +108,7 @@ It's slower. It actually works.
 
 - 24 DSA problems solved
 - 10 projects deployed
-- 26-day commit streak
+- 27-day commit streak
 - 9 patterns identified
 
 ---
