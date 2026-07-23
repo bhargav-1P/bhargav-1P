@@ -1,6 +1,6 @@
 # Bhargav Ram Pula | Aspiring Backend Developer
 
-📍 India | 🎯 180-Day Sprint | Day 27/180
+📍 India | 🎯 180-Day Sprint | Day 28/180
 
 ---
 
