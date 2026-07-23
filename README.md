@@ -52,12 +52,12 @@ Node.js, Express, MongoDB. Month 2.
 
 - Brute Force (nested loops)
 - Hash Set (duplicate check, intersection)
-- Two Pointers (palindrome, reverse, merge, move zeroes, remove element, remove duplicates)
+- Two Pointers (palindrome, reverse, merge, move zeroes, remove element, remove duplicates,  squares of sorted array)
 - Frequency Count (first unique character)
 - Binary search (first bad version,search insert position)
-- Sliding Window (maximum average subarray)
+- Sliding Window (maximum average subarray, maximum vowels)
 - Prefix Sum(range sum query,find pivot index,runner sum)
-- Linked List (Iterative, Skip Node, Fast & Slow, Palindrome Detection, Dummy Node, Fixed Gap, Two Pointer Merge)
+- Linked List (reverse, remove duplicates, cycle, middle, palindrome, merge, fixed gap, intersection)
 ---
 
 ## How I Learn
@@ -101,14 +101,15 @@ It's slower. It actually works.
 | 25 | Remove Nth Node From End — Optimal (fast/slow ) | — |
 | 26 | #19 Fixed Gap recall, #21 Merge Two Lists (brute + optimal), #876 recall |
 | 27 | #234 Palindrome recall, #21 Merge recall, #977 Two Giants recall |
+| 28 | #206 recall, #83 recall, #160 Intersection (brute + optimal) |
 
 ---
 
 ## Stats
 
-- 24 DSA problems solved
+- 25 DSA problems solved
 - 10 projects deployed
-- 27-day commit streak
+- 28-day commit streak
 - 9 patterns identified
 
 ---
