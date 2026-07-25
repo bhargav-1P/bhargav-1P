@@ -1,6 +1,6 @@
 # Bhargav Ram Pula | Aspiring Backend Developer
 
-📍 India | 🎯 180-Day Sprint | Day 28/180
+📍 India | 🎯 180-Day Sprint | Day 30/180
 
 ---
 
@@ -58,6 +58,7 @@ Node.js, Express, MongoDB. Month 2.
 - Sliding Window (maximum average subarray, maximum vowels)
 - Prefix Sum(range sum query,find pivot index,runner sum)
 - Linked List (reverse, remove duplicates, cycle, middle, palindrome, merge, fixed gap, intersection)
+- Stack (valid parentheses)
 ---
 
 ## How I Learn
@@ -102,15 +103,17 @@ It's slower. It actually works.
 | 26 | #19 Fixed Gap recall, #21 Merge Two Lists (brute + optimal), #876 recall |
 | 27 | #234 Palindrome recall, #21 Merge recall, #977 Two Giants recall |
 | 28 | #206 recall, #83 recall, #160 Intersection (brute + optimal) |
+| 29 | — Rest day | — |
+| 30 | #19 Fixed Gap recall, #160 Intersection recall, #20 Valid Parentheses (Stack) | — |
 
 ---
 
 ## Stats
 
-- 25 DSA problems solved
+- 26 DSA problems solved
 - 10 projects deployed
-- 28-day commit streak
-- 9 patterns identified
+- 30-day commit streak
+- 10 patterns identified
 
 ---
 
