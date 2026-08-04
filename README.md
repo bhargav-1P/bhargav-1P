@@ -1,6 +1,6 @@
-# Bhargav Rampula | Aspiring Software Engineer
+# Bhargav Ram Pula | Aspiring Software Engineer
 
-📍 India · 🎯 180‑Day Core Engineering Sprint · Day 33
+📍 India · 🎯 180‑Day Core Engineering Sprint · Day 34
 
 ---
 
@@ -14,7 +14,7 @@ Now I’m building core fundamentals (OS, Networks, DBMS) and solving DSA daily.
 
 ## What I’m Doing Right Now
 
-- Solving DSA problems in JavaScript (28 solved, 10 patterns)
+- Solving DSA problems in JavaScript (29 solved, 10 patterns)
 - Learning Operating Systems and writing Python automation tools
 - Building a **GIS Data Validation Engine** that automates the mapping QA I did manually at Wipro
 
