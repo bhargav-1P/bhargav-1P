@@ -1,6 +1,6 @@
 # Bhargav Ram Pula | Aspiring Software Engineer
 
-📍 India · 🎯 180‑Day Core Engineering Sprint · Day 34
+📍 India ·
 
 ---
 
