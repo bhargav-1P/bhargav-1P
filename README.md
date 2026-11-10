@@ -27,7 +27,7 @@ Now I’m building core fundamentals (OS, Networks, DBMS) and solving DSA daily.
 | GIS Validation Engine | Python, CSV, CLI | [Repo](https://github.com/bhargav‑1P/gis‑validation‑engine) |
 | Algorithmic Sandbox | Vanilla JS | [Repo](https://github.com/bhargav‑1P/algorithmic-sandbox) |
 | Sliding Window Visualizer | Vanilla JS | [Live](https://visualiser-sliding-w.netlify.app) |
-| 14+ more (To‑Do, Calculator, Pricing Cards…) | HTML/CSS/JS | [Live]https://newiup-todolist.netlify.app/ |
+| 14+ more (To‑Do, Calculator, Pricing Cards…) | HTML/CSS/JS | [Live](https://newiup-todolist.netlify.app/)  |
 
 ---
 
